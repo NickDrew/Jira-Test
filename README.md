@@ -1,4 +1,4 @@
 # Jira-Test
 Test interaction with Jira
 
-Test connect
+Testing connection with Jira
