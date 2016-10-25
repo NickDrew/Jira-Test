@@ -1,4 +1,4 @@
 # Jira-Test
 Test interaction with Jira
 
-Testing connection with Jira
+making a change to README that I can commit to test Jira
